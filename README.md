@@ -203,7 +203,7 @@ Menggunakan PERULANGAN WHILE seperti hasil gambar dan code di atas.
 
 Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama , tanggal lahir dan pekerjaan . Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir . Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan.
 
-![15](https://user-images.githubusercontent.com/101621068/168755092-e71f04dc-bb81-4649-a7e0-e07591bcae9c.png)
+![15](https://user-images.githubusercontent.com/101621068/168781601-d1b7bd47-578f-4d32-a07a-3f059f27e525.png)
 
 ### Contoh Codingan <b>
 ```html
